@@ -1,7 +1,7 @@
 {
     "name": "assert-to-expect",
     "version": "1.0.1",
-    "description": "change from assert to jest's expect",
+    "description": "migrate from assert to jest's expect",
     "keywords": [
         "assert",
         "expect",

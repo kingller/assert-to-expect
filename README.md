@@ -1,5 +1,5 @@
 # assert-to-expect
-change from assert to jest's expect
+migrate from assert to jest's expect
 
 ## Installation
 
@@ -19,7 +19,7 @@ Example:
 npx assert-to-expect ./src -m .*\\.tsx$
 ```
 
-You can change the code using assert to use expect as bellow.
+You can migrate the code using assert to use expect as bellow.
 
 The code before change,
 
