@@ -35,9 +35,8 @@ The code after change,
 ```
 expect(wrapper.instance() instanceof Int).toBe(true);
 expect(wrapper.find('Dropdown').length).toBe(1);
-expect(wrapper.prop('texts')).toEqual( ['react', 'vue']);
+expect(wrapper.prop('texts')).toEqual(['react', 'vue']);
 ```
-
 
 ### path
 
@@ -46,4 +45,3 @@ The value of path to change.
 ### matchRegex
 
 Regular expression for matching files.
-
